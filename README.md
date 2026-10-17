@@ -7,7 +7,6 @@ This is a full-stack social media application built using Node.js, Express.js, R
 ## How to Use Project?
 
 First of all, download the project, run npm install to install all dependencies, then paste your MongoDB URL into the .env file inside the API folder.I used Mailtrap for password reset functionality. You can create an account on Mailtrap to manage your settings. Finally, start the server with npm run dev.
-![image](https://github.com/user-attachments/assets/d13744bd-8c80-457a-ac18-a50b97b723b4)
 
 
 
